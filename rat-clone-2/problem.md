@@ -10,7 +10,7 @@
 
 ## Description
 
-Foo
+The imposter was able to get through our defenses last time, so we've strengthened our defenses!
 
 ## Details
 
