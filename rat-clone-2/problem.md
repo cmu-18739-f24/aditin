@@ -10,7 +10,7 @@
 
 ## Description
 
-The imposter was able to get through our defenses last time, so we've strengthened our defenses!
+The imposter was able to fool us last time, so we've strengthened our defenses!
 
 ## Details
 
