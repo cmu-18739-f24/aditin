@@ -1,6 +1,6 @@
 # Guess My Cheese
 
-- Namespace: picoctf/18739
+- Namespace: picoctf/18739f24
 - ID: rat-clone-1
 - Type: custom
 - Category: Cryptography
@@ -28,3 +28,7 @@ ulimits:
 diskquota: 64m
 init: true
 ```
+
+## Attributes
+
+- author: aditin
