@@ -11,6 +11,7 @@
 ## Description
 
 Try to decrypt the secret cheese password to prove you're not the imposter!
+Note: this problem is meant to be solved without access to the source code, but cmgr won't let me publish without including it!
 
 ## Details
 
