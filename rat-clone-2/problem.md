@@ -10,7 +10,8 @@
 
 ## Description
 
-The imposter was able to fool us last time, so we've strengthened our defenses!
+The imposter was able to fool us last time, so we've strengthened our defenses! 
+Note: this problem is meant to be solved without access to the source code, but cmgr won't let me publish without including it!
 
 ## Details
 
