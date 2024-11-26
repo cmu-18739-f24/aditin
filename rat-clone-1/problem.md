@@ -1,4 +1,4 @@
-# Guess My Cheese
+# Guess My Cheese (Part 1)
 
 - Namespace: picoctf/18739f24
 - ID: rat-clone-1
