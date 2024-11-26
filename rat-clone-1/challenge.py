@@ -1,7 +1,6 @@
 import time
 import random
 import re
-# flag = "b42930292c46c1b210106a5527f60e93394ed9664297fe93d4cd0fba49c6ccad"
 
 
 # Read the flag from flag.txt
